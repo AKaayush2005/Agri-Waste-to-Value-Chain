@@ -646,6 +646,14 @@ body {
     gap: 12px;
 }
 
+.learn-more-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+}
+
 /* Case Studies Section */
 .case-studies-section {
     padding: 100px 0;
