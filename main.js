@@ -533,8 +533,8 @@ biochar: {
         title: "Vermicomposting Units",
         images: [
             "https://th.bing.com/th/id/R.08a84418b31d3455c4bde10f1239c4e2?rik=baCxA2A8siZERQ&riu=http%3a%2f%2fvermicompostmaroc.com%2fwp-content%2fuploads%2f2023%2f10%2fPROC.png&ehk=POaThgtWndwaWOWHNDRlQxJjQhUXKj%2f40j7oQkvSvlE%3d&risl=&pid=ImgRaw&r=0",
-            "https://images.pexels.com/photos/3574678/pexels-photo-3574678.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop",
-            "https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop"
+            "https://st2.depositphotos.com/17449018/44907/v/950/depositphotos_449070000-stock-illustration-infographic-vermicomposting-components-vermicomposter-vermicomposter.jpg",
+            "https://www.growingagreenerworld.com/wp-content/uploads/2015/08/WormBin-2-ps-sm.jpg"
         ],
         how: "Earthworms (Eisenia fetida, Eudrilus eugeniae) decompose organic residues (farm waste, vegetable waste, dung) into nutrient-rich vermicompost. Small, low-cost pits or tanks are used for the process.",
         feedstocks: "Crop residues, vegetable waste, animal dung, agro-industrial by-products.",
