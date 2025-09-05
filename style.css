@@ -959,8 +959,9 @@ body {
 .gallery-slide img {
     width: 100%;
     height: 300px;
-    object-fit: cover;
-}
+    object-fit: contain; /* ensures the whole image is shown
+    /* background-color: #000; /* optional: adds background behind empty space */
+} 
 
 .gallery-controls {
     display: flex;
